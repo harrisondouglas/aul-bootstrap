@@ -2,11 +2,11 @@ body{
     font: 20px Arial,sans-serif ;
 }
 .navbar {
-    background-color:#29B893 ;
+    background-color:#79EFD1 ;
 }
 
 .quem-somos{
-    background-color: #F39C12 ;
+    background-color: #F5B041 ;
     color: white;
 }
   
@@ -17,4 +17,10 @@ body{
 
 .parceiros{
     background-color: #5DADE2 ;
+    color: black;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
